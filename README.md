@@ -9,5 +9,7 @@
 可以直接用eclipse或idea java导入运行，但需要补全依赖
 
 java版本：1.8
+
 linux发行版: centos6/7,ubuntu16.04/18.04/20
+
 windows版本:win10
